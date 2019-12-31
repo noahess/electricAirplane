@@ -1,4 +1,5 @@
-
+| Flight  | Flight  | Flight  | Flight  | Flight  | Flight  |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | JAL913  | ROU1715 | DAL468  | TAM3154 | TAM8001 | AAL918  |
 | AJX934  | UZB603  | ICE630  | DAL975  | AAL1285 | ROU1653 |
 | ROU1628 | JAL860  | KTK7705 | AAL1307 | DAL1115 | ACA908  |
